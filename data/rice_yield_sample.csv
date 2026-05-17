@@ -1,0 +1,9 @@
+month,amount,fertiliser,irrigation,soil_ph,yield
+June,1,urea,canal,6.0,4.2
+June,2,urea,canal,6.5,8.5
+July,1,urea,tube_well,6.2,4.5
+July,2,DAP,canal,6.8,9.0
+August,1,urea,canal,6.4,4.0
+August,3,DAP,tube_well,6.7,13.2
+September,2,urea,canal,6.3,8.0
+September,1,DAP,tube_well,6.9,5.0
